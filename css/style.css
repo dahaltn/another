@@ -395,14 +395,15 @@ ul.menu {
 }
 #popupAbout p, #popupProjects p, #popupContact p, #popupBlog p {
 	padding-left: 10px;
-	font-size: 18px;
+	font-size: 14px;
 	line-height: 20px;
+	color:yellow;
 }
 #popupAbout h1, #popupProjects h1, #popupContact h1, #popupBlog h1 {
 	text-align: left;
 	font-size: 30px;
 	letter-spacing: 1px;
-	border-bottom: 1px dotted #D3D3D3;
+	border-bottom: 1px solid #D3D3D3;
 	padding-bottom: 2px;
 	margin-bottom: 20px;
 }
